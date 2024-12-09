@@ -1,0 +1,2 @@
+C:\Users\3457862348975\Documents\MinGW\bin\ar.exe qc static-matrixlib.a "CMakeFiles/static-matrixlib.dir/lib/Matrix.cpp.obj" "CMakeFiles/static-matrixlib.dir/lib/c/c_api.cpp.obj"
+C:\Users\3457862348975\Documents\MinGW\bin\ranlib.exe static-matrixlib.a

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/3457862348975/Desktop/newLibMatrix/build",
+  "command": "C:\\Users\\3457862348975\\Documents\\MinGW\\bin\\g++.exe  @CMakeFiles/test-shared-matrix.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\test-shared-matrix.dir\\exe\\main.cpp.obj -c C:\\Users\\3457862348975\\Desktop\\newLibMatrix\\exe\\main.cpp",
+  "file": "C:/Users/3457862348975/Desktop/newLibMatrix/exe/main.cpp",
+  "output": "CMakeFiles/test-shared-matrix.dir/exe/main.cpp.obj"
+}
+]

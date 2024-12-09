@@ -1,0 +1,4 @@
+C:/Users/3457862348975/Desktop/newLibMatrix/build/CMakeFiles/static-matrixlib.dir
+C:/Users/3457862348975/Desktop/newLibMatrix/build/CMakeFiles/shared-matrixlib.dir
+C:/Users/3457862348975/Desktop/newLibMatrix/build/CMakeFiles/edit_cache.dir
+C:/Users/3457862348975/Desktop/newLibMatrix/build/CMakeFiles/rebuild_cache.dir
